@@ -30,7 +30,7 @@
 <p>
 </div>
 <br><br>
-<h2 align="center" style="font-size: 22px"> Don't do bad stuff or </h2>
+<h2 align="center" style="font-size: 22px"> Reminder for not doingbad stuff</h2>
 <img src="https://c.tenor.com/lG2TGXW4n4wAAAAC/tenor.gif" align="center" style="&#x3b;max-width:200px&#x3b;"/>
 
 <!-- 
