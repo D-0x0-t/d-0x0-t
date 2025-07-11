@@ -4,7 +4,7 @@
   <p align="center">I'm just another cybersecurity enthusiast</p>
   <br>
   <img src="https://media.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" align="right" style="width:90%&#x3b;max-width:200px&#x3b;"/>
-  <li>&#x21a6; I work as a cybersecurity engineer at <a href="https://www.bbvatechnology.com/">BBVA Technology</a>.</li>
+  <li>&#x21a6; I work as a cybersecurity engineer at multinational bank.
   <li>&#x21a6; I am also preparing for OSCP and CRTO.</li>
   <li>&#x21a6; Really interested in wireless security.</li>
   <li>&#x21a6; And learning malware development.</li>
